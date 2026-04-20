@@ -1,0 +1,3 @@
+id,name,vat_id,email,country,group
+1001,Tech Corp,PL1234567890,contact@tech.pl,PL,DOMESTIC
+1004,Berlin Bau,DE987654321,info@berlin.de,DE,INTERNATIONAL

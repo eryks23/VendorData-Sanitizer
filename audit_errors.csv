@@ -1,0 +1,3 @@
+id,name,vat_id,email,country,group,error_reason
+1002,Global Soft,123,bad_mail.com,US,INTERNATIONAL,"VAT valid: False, Email valid: False"
+1003,Local Biz,PL0987654321,,PL,DOMESTIC,"VAT valid: True, Email valid: False"
