@@ -1,0 +1,13 @@
+# VendorData-Sanitizer — Python dependencies
+#
+# This project uses only the Python standard library (csv module).
+# No packages need to be installed.
+#
+# Python 3.8 or newer is required.
+#
+# To run:
+#   python vendor_audit.py
+#
+# To run tests (if you add a tests/ directory):
+#   pip install pytest
+#   pytest tests/
