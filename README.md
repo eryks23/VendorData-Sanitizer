@@ -266,7 +266,7 @@ Keep functions small and focused on a single responsibility. New validation rule
 
 ## Author
 
-**[DO UZUPEŁNIENIA: imię i nazwisko]** — [@eryks23](https://github.com/eryks23)
+[@eryks23](https://github.com/eryks23)
 
 Repository: [https://github.com/eryks23/VendorData-Sanitizer](https://github.com/eryks23/VendorData-Sanitizer)
 
